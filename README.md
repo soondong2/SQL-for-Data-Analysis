@@ -2,6 +2,7 @@
 ## SQL 실습 환경 구축
 - [PostgreSQL 설치 및 실행](https://github.com/soondong2/SQL_for_Data_Analysis/blob/main/PostgreSQL%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%8B%A4%ED%96%89.md)
 ## 데이터 준비
+- [데이터 생성 코드](https://github.com/soondong2/SQL_for_Data_Analysis/blob/main/2%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A4%80%EB%B9%84/date_dim.sql)
 ## 시계열 분석
 ## 코호트 분석
 ## 텍스트 분석
