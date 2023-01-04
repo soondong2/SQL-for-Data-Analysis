@@ -7,6 +7,7 @@
 - [데이터 생성](https://github.com/soondong2/SQL_for_Data_Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%83%9D%EC%84%B1.md)
 - 트렌드 분석
   - [간단한 트렌드 분석](https://github.com/soondong2/SQL_for_Data_Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/2-1.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EB%B6%84%EC%84%9D.md)
+  - [요소 비교](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/2-2.%20%EC%9A%94%EC%86%8C%20%EB%B9%84%EA%B5%90.md)
 ## 코호트 분석
 ## 텍스트 분석
 ## 이상 탐지
