@@ -1,4 +1,17 @@
 # SQL for Data Analysis
+![image](https://user-images.githubusercontent.com/100760303/210536699-5918281b-a4aa-44d6-9791-9ab4633ccbd1.png)
+
+<br>
+
+## 책 소개
+- 데이터 준비부터 분석을 통한 인사이트 도출까지
+- 데이터를 인사이트로 바꾸는 SQL 활용법
+
+분석에 앞서 데이터를 준비하는 과정부터 실무에서 가장 활용도 높은 시계열, 코호트, 리텐션 분석 등 다양한 분석법을 알려준다.<br>
+실제 데이터셋을 사용해 흥미로운 예제를 실습해보며 실전에 가까운 분석 경험을 쌓아보자.
+
+<br>
+
 ## SQL 실습 환경 구축
 - [PostgreSQL 설치 및 실행](https://github.com/soondong2/SQL_for_Data_Analysis/blob/main/PostgreSQL%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%8B%A4%ED%96%89.md)
 ## 데이터 준비
