@@ -23,6 +23,7 @@
   - [간단한 트렌드 분석](https://github.com/soondong2/SQL_for_Data_Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/2-1.%20%EA%B0%84%EB%8B%A8%ED%95%9C%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EB%B6%84%EC%84%9D.md)
   - [요소 비교](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/2-2.%20%EC%9A%94%EC%86%8C%20%EB%B9%84%EA%B5%90.md)
   - [전체 대비 비율](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/2-3.%20%EC%A0%84%EC%B2%B4%20%EB%8C%80%EB%B9%84%20%EB%B9%84%EC%9C%A8.md)
+  - [시계열 데이터 변화 이해를 위한 인덱싱](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/2-4.%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B3%80%ED%99%94%20%EC%9D%B4%ED%95%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EB%8D%B1%EC%8B%B1.md)
 ## 코호트 분석
 ## 텍스트 분석
 ## 이상 탐지
