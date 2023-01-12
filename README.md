@@ -28,6 +28,10 @@
   - [롤링 계산](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/3-2.%20%EB%A1%A4%EB%A7%81%20%EA%B3%84%EC%82%B0.md)
   - [희소 데이터와 시간 윈도우 롤링](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/3-3.%20%ED%9D%AC%EC%86%8C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EC%8B%9C%EA%B0%84%20%EC%9C%88%EB%8F%84%EC%9A%B0%20%EB%A1%A4%EB%A7%81.md)
   - [누적값 계산](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/3-4.%20%EB%88%84%EC%A0%81%EA%B0%92%20%EA%B3%84%EC%82%B0.md)
+- 계절성 분석
+  - [구간 비교](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/4-1.%20%EA%B5%AC%EA%B0%84%20%EB%B9%84%EA%B5%90.md)
+  - [작년과 올해 비교]()
+  - [다중 구간 비교]()
 ## 코호트 분석
 ## 텍스트 분석
 ## 이상 탐지
