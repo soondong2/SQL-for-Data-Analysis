@@ -31,7 +31,7 @@
 - 계절성 분석
   - [구간 비교](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/4-1.%20%EA%B5%AC%EA%B0%84%20%EB%B9%84%EA%B5%90.md)
   - [작년과 올해 비교](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/4-2.%20%EC%9E%91%EB%85%84%EA%B3%BC%20%EC%98%AC%ED%95%B4%20%EB%B9%84%EA%B5%90.md)
-  - [다중 구간 비교]()
+  - [다중 구간 비교](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/3%EC%9E%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%B6%84%EC%84%9D/4-3.%20%EB%8B%A4%EC%A4%91%20%EA%B5%AC%EA%B0%84%20%EB%B9%84%EA%B5%90.md)
 ## 코호트 분석
 ## 텍스트 분석
 ## 이상 탐지
