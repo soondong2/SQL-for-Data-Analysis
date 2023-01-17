@@ -38,6 +38,14 @@
   - [기본 리텐션 커브를 위한 SQL](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/2-1.%20%EA%B8%B0%EB%B3%B8%20%EB%A6%AC%ED%85%90%EC%85%98%20%EC%BB%A4%EB%B8%8C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20SQL.md)
   - [리텐션 정확도 향상을 위한 시계열 조절](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/2-2.%20%EB%A6%AC%ED%85%90%EC%85%98%20%EC%A0%95%ED%99%95%EB%8F%84%20%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EC%A1%B0%EC%A0%88.md)
   - [시계열 데이터에서 코호트 ](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/2-3.%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.md)
+  - [다른 테이블의 속성으로 코호트 분석](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/2-4.%20%EB%8B%A4%EB%A5%B8%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98%20%EC%86%8D%EC%84%B1%EC%9C%BC%EB%A1%9C%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D.md)
+  - [희소 코호트 다루기]()
+  - [처음 날짜 대신 다른 날자를 기준으로 코호트 정의하기]()
+- 관련 코호트 분석
+  - [생존자]()
+  - [리턴십 (반복 구매 행동)]()
+  - [누적 계산]()
+- [코호트를 활용한 크로스 섹션 분석]()
 ## 텍스트 분석
 ## 이상 탐지
 ## 실험 분석
