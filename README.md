@@ -43,7 +43,7 @@
   - [처음 날짜 대신 다른 날자를 기준으로 코호트 정의하기](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/2-6.%20%EC%B2%98%EC%9D%8C%20%EB%82%A0%EC%A7%9C%20%EB%8C%80%EC%8B%A0%20%EB%8B%A4%EB%A5%B8%20%EB%82%A0%EC%A7%9C%EB%A5%BC%20%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EC%A0%95%EC%9D%98.md)
 - 관련 코호트 분석
   - [생존자](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/3-1.%20%EC%83%9D%EC%A1%B4%EC%9E%90.md)
-  - [리턴십 (반복 구매 행동)]()
+  - [리턴십 (반복 구매 행동)](https://github.com/soondong2/SQL-for-Data-Analysis/tree/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D)
   - [누적 계산]()
 - [코호트를 활용한 크로스 섹션 분석]()
 ## 텍스트 분석
