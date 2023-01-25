@@ -44,8 +44,7 @@
 - 관련 코호트 분석
   - [생존자](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/3-1.%20%EC%83%9D%EC%A1%B4%EC%9E%90.md)
   - [리턴십 (반복 구매 행동)](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/3-2.%20%EB%A6%AC%ED%84%B4%EC%8B%AD(%EB%B0%98%EB%B3%B5%20%EA%B5%AC%EB%A7%A4%20%ED%96%89%EB%8F%99).md)
-  - [누적 계산]()
-- [코호트를 활용한 크로스 섹션 분석]()
+  - [누적 계산](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/3-3.%20%EB%88%84%EC%A0%81%20%EA%B3%84%EC%82%B0.md)
 ## 텍스트 분석
 - 텍스트 분석
 - 텍스트 파싱
