@@ -46,9 +46,9 @@
   - [리턴십 (반복 구매 행동)](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/3-2.%20%EB%A6%AC%ED%84%B4%EC%8B%AD(%EB%B0%98%EB%B3%B5%20%EA%B5%AC%EB%A7%A4%20%ED%96%89%EB%8F%99).md)
   - [누적 계산](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/4%EC%9E%A5%20%EC%BD%94%ED%98%B8%ED%8A%B8%20%EB%B6%84%EC%84%9D/3-3.%20%EB%88%84%EC%A0%81%20%EA%B3%84%EC%82%B0.md)
 ## 텍스트 분석
-- 텍스트 분석
-- 텍스트 파싱
-- 텍스트 변환
+- [데이터 생성](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%83%9D%EC%84%B1.md)
+- [텍스트 파싱](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/2.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%8C%8C%EC%8B%B1.md)
+- [텍스트 변환](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/3.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B3%80%ED%99%98.md)
 - 대규모 텍스트에서 문자열 찾기
   - 와일드카드 매칭: LIKE, ILIKE
   - 정확한 매칭: IN, NOT IN
