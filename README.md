@@ -50,8 +50,8 @@
 - [텍스트 파싱](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/2.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%8C%8C%EC%8B%B1.md)
 - [텍스트 변환](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/3.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B3%80%ED%99%98.md)
 - 대규모 텍스트에서 문자열 찾기
-  - 와일드카드 매칭: LIKE, ILIKE
-  - 정확한 매칭: IN, NOT IN
+  - [와일드카드 매칭(LIKE, ILIKE)](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/4-1.%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B0%BE%EA%B8%B0%20-%20LIKE%2C%20ILIKE.md)
+  - [정확한 매칭(IN, NOT IN)](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/4-2.%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B0%BE%EA%B8%B0%20-%20IN%2C%20NOT%20IN.md)
 - 정규 표현식
   - 정규 표현식을 활용한 패턴 매칭과 대체
 - 텍스트 구성과 형태 변환
