@@ -53,7 +53,7 @@
   - [와일드카드 매칭(LIKE, ILIKE)](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/4-1.%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B0%BE%EA%B8%B0%20-%20LIKE%2C%20ILIKE.md)
   - [정확한 매칭(IN, NOT IN)](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/4-2.%20%EB%8C%80%EA%B7%9C%EB%AA%A8%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B0%BE%EA%B8%B0%20-%20IN%2C%20NOT%20IN.md)
 - 정규 표현식
-  - 정규 표현식을 활용한 패턴 매칭과 대체
+  - [정규 표현식을 활용한 패턴 매칭과 대체](https://github.com/soondong2/SQL-for-Data-Analysis/blob/main/5%EC%9E%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/5.%20%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8C%A8%ED%84%B4%20%EB%A7%A4%EC%B9%AD%EA%B3%BC%20%EB%8C%80%EC%B2%B4.md)
 - 텍스트 구성과 형태 변환
   - 문자열 연결
   - 텍스트 형태 변환
